@@ -1,0 +1,34 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "iamjaco",
+	"icon": "https://micro.blog/iamjaco/avatar.jpg",
+	"home_page_url": "https://iamja.co/",
+	"feed_url": "https://iamja.co/feed.json",
+	"items": [
+		
+			{
+				"id": "http://iamjaco.micro.blog/2023/08/05/the-problem-with.html",
+				
+				"content_html": "<blockquote>\n<p>The problem with double nothing is not knowing when you’re finished.</p>\n</blockquote>\n",
+				"content_text": "> The problem with double nothing is not knowing when you’re finished.\n",
+				"date_published": "2023-08-05T20:52:13+08:00",
+				"url": "https://iamja.co/2023/08/05/the-problem-with.html"
+			},
+			{
+				"id": "http://iamjaco.micro.blog/2023/07/11/time-to-do.html",
+				
+				"content_html": "<p>Time to do some main character stuff</p>\n",
+				"content_text": "Time to do some main character stuff\n",
+				"date_published": "2023-07-11T09:19:27+08:00",
+				"url": "https://iamja.co/2023/07/11/time-to-do.html"
+			},
+			{
+				"id": "http://iamjaco.micro.blog/2023/07/08/the-average-human.html",
+				
+				"content_html": "<p>The average human lifespan is absurdly, insultingly brief. Assuming you live to be eighty, you have just over four thousand weeks.</p>\n",
+				"content_text": "The average human lifespan is absurdly, insultingly brief. Assuming you live to be eighty, you have just over four thousand weeks.\n",
+				"date_published": "2023-07-08T11:21:33+08:00",
+				"url": "https://iamja.co/2023/07/08/the-average-human.html"
+			}
+	]
+}
