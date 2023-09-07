@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://iamjaco.micro.blog/2023/09/07/chatting-with-documents.html",
+				"title": "Chatting with Documents Using Open-Source Large Language Models (LLMs)",
+				"content_html": "<p>Below are some repositories that allow you to chat with documents using open-source LLMs.</p>\n<ol>\n<li><a href=\"https://github.com/mayooear/gpt4-pdf-chatbot-langchain\">Langchain&rsquo;s GPT-4 PDF Chatbot</a></li>\n<li><a href=\"https://huggingface.co/spaces/fakezeta/pdfchat\">PDFChat on Hugging Face</a></li>\n<li><a href=\"https://github.com/imartinez/privateGPT\">PrivateGPT</a></li>\n<li><a href=\"https://github.com/PromtEngineer/localGPT\">LocalGPT</a></li>\n<li><a href=\"https://github.com/jlonge4/local_llama\">Local Llama</a></li>\n<li><a href=\"https://github.com/iGavroche/BrainChulo\">BrainChulo</a></li>\n<li><a href=\"https://reddit.com/r/selfhosted\">LocalAI</a></li>\n<li><a href=\"https://python.langchain.com/en/latest/modules/models/llms/integrations/huggingface_textgen_inference.html\">Langchain&rsquo;s Hugging Face Integration</a></li>\n</ol>\n",
+				"content_text": "Below are some repositories that allow you to chat with documents using open-source LLMs.\r\n\r\n1. [Langchain's GPT-4 PDF Chatbot](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)\r\n2. [PDFChat on Hugging Face](https://huggingface.co/spaces/fakezeta/pdfchat)\r\n3. [PrivateGPT](https://github.com/imartinez/privateGPT)\r\n4. [LocalGPT](https://github.com/PromtEngineer/localGPT)\r\n5. [Local Llama](https://github.com/jlonge4/local_llama)\r\n6. [BrainChulo](https://github.com/iGavroche/BrainChulo)\r\n7. [LocalAI](https://reddit.com/r/selfhosted)\r\n8. [Langchain's Hugging Face Integration](https://python.langchain.com/en/latest/modules/models/llms/integrations/huggingface_textgen_inference.html)\r\n",
+				"date_published": "2023-09-07T09:48:51+08:00",
+				"url": "https://iamja.co/2023/09/07/chatting-with-documents.html"
+			},
+			{
+				"id": "http://iamjaco.micro.blog/2023/08/23/i-hope-that.html",
+				
+				"content_html": "<p>&ldquo;I hope that you never, not even for a second, become a secondary character in your own story.&rdquo;</p>\n",
+				"content_text": "\"I hope that you never, not even for a second, become a secondary character in your own story.\"\n",
+				"date_published": "2023-08-23T18:57:51+08:00",
+				"url": "https://iamja.co/2023/08/23/i-hope-that.html"
+			},
+			{
+				"id": "http://iamjaco.micro.blog/2023/08/23/the-problem-with.html",
+				
+				"content_html": "<blockquote>\n<p>The problem with doing nothing is not knowing when you’re finished.</p>\n</blockquote>\n",
+				"content_text": "> The problem with doing nothing is not knowing when you’re finished.\n",
+				"date_published": "2023-08-23T18:57:42+08:00",
+				"url": "https://iamja.co/2023/08/23/the-problem-with.html"
+			},
+			{
+				"id": "http://iamjaco.micro.blog/2023/08/22/the-cost-of.html",
+				
+				"content_html": "<p>The cost of not following your heart is spending the rest of your life wishing you had.</p>\n",
+				"content_text": "The cost of not following your heart is spending the rest of your life wishing you had.\n",
+				"date_published": "2023-08-22T04:53:43+08:00",
+				"url": "https://iamja.co/2023/08/22/the-cost-of.html"
+			},
+			{
+				"id": "http://iamjaco.micro.blog/2023/08/22/every-day-think.html",
+				
+				"content_html": "<p>Every day, think as you wake up, today I am fortunate to be alive, I have a precious human life, I am not going to waste it. I am going to use all my energies to develop myself, to expand my heart out to others; to achieve enlightenment for the benefit of all beings. I am going to have kind thoughts towards others, I am not going to get angry or think badly about others. I am going to benefit others as much as I can.</p>\n",
+				"content_text": "Every day, think as you wake up, today I am fortunate to be alive, I have a precious human life, I am not going to waste it. I am going to use all my energies to develop myself, to expand my heart out to others; to achieve enlightenment for the benefit of all beings. I am going to have kind thoughts towards others, I am not going to get angry or think badly about others. I am going to benefit others as much as I can.\n",
+				"date_published": "2023-08-22T04:53:19+08:00",
+				"url": "https://iamja.co/2023/08/22/every-day-think.html"
+			},
+			{
+				"id": "http://iamjaco.micro.blog/2023/08/22/loving-someone-who.html",
+				
+				"content_html": "<blockquote>\n<p>Loving someone who doesn’t love you back is like hugging a cactus. The tighter you hold on the more it hurts.</p>\n</blockquote>\n",
+				"content_text": "> Loving someone who doesn’t love you back is like hugging a cactus. The tighter you hold on the more it hurts.\n",
+				"date_published": "2023-08-22T04:51:59+08:00",
+				"url": "https://iamja.co/2023/08/22/loving-someone-who.html"
+			},
+			{
+				"id": "http://iamjaco.micro.blog/2023/08/22/pain-has-a.html",
+				
+				"content_html": "<blockquote>\n<p>“Pain has a way of clipping our wings and keeping us from being able to fly.”</p>\n</blockquote>\n",
+				"content_text": "> “Pain has a way of clipping our wings and keeping us from being able to fly.”\n",
+				"date_published": "2023-08-22T04:51:31+08:00",
+				"url": "https://iamja.co/2023/08/22/pain-has-a.html"
+			},
+			{
 				"id": "http://iamjaco.micro.blog/2023/08/22/success-is-liking.html",
 				
 				"content_html": "<blockquote>\n<p>Success is liking yourself, liking what you do, and liking how you do it.</p>\n</blockquote>\n",
